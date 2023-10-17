@@ -7,11 +7,14 @@
 </head>
 <body>
     <?php
-        echo "hellaur";
-        echo "halllerere";
-        echo "pang ilan na to";
-        echo "<br> huEYYYY";
-        echo "sdfasdfas";
+    echo "purrrr";
+    print "<br>hellaur";
+    $intro = "<br> Brief intro";
+    print $intro;
+    echo strlen ("Huy ano ba");
+    echo strlen ($intro);
+    echo str_word_count ($intro);
+
     ?>
 </body>
 </html>
